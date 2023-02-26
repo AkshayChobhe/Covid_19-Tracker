@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Covid-19Cases</string>
+    <string name="lgm">LGM</string>
+    <string name="imageview1">imageview1</string>
+    <string name="imageview2">imageview2</string>
+    <string name="imageview3">imageview3</string>
+    <string name="imageview4">imageview4</string>
+    <string name="imageview5">imageview5</string>
+    <string name="imageview6">imageview6</string>
+    <string name="imageview7">imageview7</string>
+    <string name="imageview8">imageview8</string>
+    <string name="imageview9">imageview9</string>
+    <string name="imageview10">TODO</string>
+    <string name="textview1">Tracker</string>
+    <string name="textview2">All Cities</string>
+    <string name="textview3">Delhi</string>
+    <string name="imageview11">imageview11</string>
+    <string name="imageview12">TODO</string>
+    <string name="textview4">Active</string>
+    <string name="cityname">Cityname</string>
+    <string name="_1">1</string>
+    <string name="confirm">Confirm</string>
+    <string name="_2">1</string>
+    <string name="_3">1</string>
+    <string name="deceased">Deceased</string>
+    <string name="_4">1</string>
+    <string name="_1765">1765</string>
+    <string name="recovered">Recovered</string>
+    <string name="_5">1</string>
+    <string name="_277">277</string>
+</resources>
